@@ -1,0 +1,17 @@
+.form_submitBtn_control {
+    
+   margin-left: 7em;
+   margin-top: 2em;
+}
+ .form_submitBtn_control button {
+    background-color: black;
+    color: aliceblue;
+    padding: .7em 1.2em;
+    cursor: pointer;
+    transition: 1s;
+    
+ }
+
+ .form_submitBtn_control button:hover{
+     color: aqua;
+ }
